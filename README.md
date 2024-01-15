@@ -32,6 +32,14 @@ After successful build, your application structure should look like this:
   flutter run
   ```
 
+# Library Using
+| Name                 | Description                                                                                                 | Link                                          |
+|----------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| cached_network_image | A flutter library to show images from the internet and keep them in the cache directory.                    | https://pub.dev/packages/cached_network_image |
+| flutter_svg          | Draw SVG files using Flutter.                                                                               | https://pub.dev/packages/flutter_svg          |
+| order_tracker        | A Flutter plugin for iOS and Android for order tracker same as flipkart order tracker ui.                   | https://pub.dev/packages/order_tracker        |
+| intl                 | Provides internationalization and localization facilities                                                   | https://pub.dev/packages/intl                 |
+
 ### Screenshoot App
 ![login](https://github.com/primajatnika27/vanilla-traceable/assets/51253537/ca57c443-770b-43a1-87b4-0c064939ab99)
 ![home](https://github.com/primajatnika27/vanilla-traceable/assets/51253537/29de2fe0-7151-4925-ae0f-5615447beb12)
