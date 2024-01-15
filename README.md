@@ -1,8 +1,7 @@
 
 # Vanilla Traceability
 
-![Uploading Screen_recording_20240115_154058-ezgif.com-video-to-gif-converter.gif…]()
-
+![Screen_recording_20240115_154058-ezgif com-video-to-gif-converter](https://github.com/primajatnika27/vanilla-traceable/assets/51253537/2a801502-4bef-4140-9906-9ccadd44118f)
 
 ### System requirements
 
