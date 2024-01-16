@@ -1,5 +1,6 @@
 
 # Vanilla Traceability
+This app inspired from Figma https://www.figma.com/file/I935IG4G2BvXaeTxlUDSN4/Happy-poultry-Farm-(Community)?type=design&node-id=25-775&mode=design&t=H5V5Uf20fgpyFN5B-0 and modify by request feature.
 
 ![Screen_recording_20240115_154058-ezgif com-video-to-gif-converter](https://github.com/primajatnika27/vanilla-traceable/assets/51253537/2a801502-4bef-4140-9906-9ccadd44118f)
 
